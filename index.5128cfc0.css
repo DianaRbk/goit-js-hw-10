@@ -1,0 +1,2 @@
+.cat-info{display:flex}.cat-box{width:500px;margin-top:50px}.img{margin-top:50px;margin-right:50px}.title{color:#f08080;-webkit-text-stroke:1px #130b0b}.hidden{display:none}.loader{color:#4c202e;font-family:Arial,Helvetica,sans-serif;font-size:25px;font-weight:400;display:block;position:relative}.loader:after{content:"";height:4px;width:0%;background:#ffa07a;animation:lineGrow 5s linear infinite;display:block}@keyframes lineGrow{to{width:100%}}
+/*# sourceMappingURL=index.5128cfc0.css.map */
